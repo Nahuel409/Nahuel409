@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente estoy trabajando freelance en [Proyectos Backend](https://apbackendproyecto.herokuapp.com/)
 
-- 🌱 Tambien estoy aprendiendo **Testing QA**
+- 🌱 Tambien estoy aprendiendo **Microservicios**
 
 - 📫 llegar a mi mediante correo: **diegovillan81@gmail.com**
 
