@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente estoy trabajando freelance en [Proyectos Backend](https://apbackendproyecto.herokuapp.com/)
 
-- 🌱 Tambien estoy aprendiendo **Microservicios**
+- 🌱 Tambien estoy aprendiendo **Analisis de Datos** como hobbie.
 
 - 📫 llegar a mi mediante correo: **diegovillan81@gmail.com**
 
