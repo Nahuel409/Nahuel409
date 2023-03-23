@@ -16,12 +16,12 @@
 
 ## ⚡ Tecnologias
 
-### :speech_balloon: Languages
+### :speech_balloon: Lenguajes
 
 | <img alt="Java" title="Java" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"> | <img alt="TypeScript" title="TypeScript" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20210506173343"> | <img title="Javascript" alt="javascript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 
-### :floppy_disk: Databases
+### :floppy_disk: Base de Datos
 
 | <img title="PostgreSql" alt="PostgreSql" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> | <img title="MySQL" alt="MySQL" width="55px" src="https://yt3.ggpht.com/ytc/AKedOLRpJVGUTtjVE_mf-DouS6NeZVEDVBqdjc1diCIQEg=s900-c-k-c0x00ffffff-no-rj"> |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@
 | <img title="Spring" alt="Spring" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png"> | <img title="Hibernate" alt="Hibernate" width="55px" src="https://www.bairesdev.com/wp-content/uploads/2020/07/hibernate-java-framework-logo-01.png"> | <img title="Angular" alt="Angular" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"> | <img title="Junit" alt="Junit" width="55px" src="https://i2.wp.com/blog.stylingandroid.com/wp-content/uploads/2017/02/junit5-logo.png?ssl=1"> | 
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 
-### :wrench: Tools
+### :wrench: Herramientas
 
 | <img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="Intelij" alt="Intelij" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/375px-IntelliJ_IDEA_Icon.svg.png"> | <img title="Maven" alt="Maven" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/maven/maven.png"> | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
