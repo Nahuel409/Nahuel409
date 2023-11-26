@@ -3,7 +3,7 @@
 
 - 👨‍💻 Mi Portfolio disponible en [https://diegovillan.com/](https://nahuel409.github.io/Portfolio-DiegoVillan/) 
 
-- 💬 Preguntame sobre **Programacion Backend & Analisis de Datos**
+- 💬 **Programacion Backend & Analisis de Datos**
 
 - 📫 Contacto **Diegovillan81@gmail.com**
 
