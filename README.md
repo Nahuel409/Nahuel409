@@ -1,7 +1,5 @@
-<h1 align="center">Diego Nahuel Villan 👨‍💻</h1>
+<h1 align="center">Diego Nahuel Villan</h1>
 <h3 align="center">Programador Java</h3>
-
-- 👨‍💻 Mi Portfolio disponible en [https://diegovillan.com/](https://nahuel409.github.io/Portfolio-DiegoVillan/) 
 
 - 💬 **Programacion Backend & Analisis de Datos**
 
