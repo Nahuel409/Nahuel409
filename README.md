@@ -38,7 +38,6 @@
 <br>
 
 
-## 🤔 Otros datos de mi github
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuel409&show_icons=true&locale=en&layout=compact" alt="nahuel409" /></p><br><br>
 
