@@ -1,5 +1,5 @@
 <h1 align="center">Diego Nahuel Villan</h1>
-<h3 align="center">Programador Java</h3>
+<h3 align="center">Programador Java & Genexus</h3>
 
 - 💬 **Programacion Backend & Analisis de Datos**
 
